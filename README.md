@@ -4,7 +4,7 @@
 The turtlebot follows the left wall while avoiding collision and obstacles (narrowly), while also trying to get as close to the left wall as possible. 
 The bug algorithm is used for showcasing the desired behavior and avoiding obstacles.
 
-## To run this package the following dependencies would be needed:
+## Dependencies:
 
 1. ROS2 (Humble was used)
 2. Turtlebot 3 
