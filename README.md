@@ -6,9 +6,10 @@ The bug algorithm is used for showcasing the desired behavior and avoiding obsta
 
 ## Dependencies:
 
-1. ROS2 (Humble was used)
-2. Turtlebot 3 
-3. Gazebo and RViz
+1. Ubuntu 22.04
+2. ROS2 (Humble was used)
+3. Turtlebot 3 
+4. Gazebo and RViz
 
 ## Steps to run package:
 
