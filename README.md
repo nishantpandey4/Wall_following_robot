@@ -1,4 +1,4 @@
-### Wall following robot
+## Wall following robot
 ## Author: Nishant Awdeshkumar Pandey
 ## About
 The turtlebot follows the left wall while avoiding collision and obstacles (narrowly), while also trying to get as close to the left wall as possible. 
